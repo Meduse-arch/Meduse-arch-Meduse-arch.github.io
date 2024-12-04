@@ -77,7 +77,8 @@
         {
           "name": "-Code",
          "content": {
-            "message1" : "lien github : <a href='https://github.com/Meduse-arch/Tore' target='_blank'>ici</a>"
+            "message1" : "lien github : <a href='https://github.com/Meduse-arch/Tore' target='_blank'>ici</a>",
+            "message2" : "<img src='src/image/bot/tore.png'>"
           }
         }
       ]
@@ -95,14 +96,36 @@
       {
         "name": "-Code",
         "content": {
-          "message1" : "lien github : <a href='https://github.com/Meduse-arch/Arcsys' target='_blank'>ici</a>"
+          "message1" : "lien github : <a href='https://github.com/Meduse-arch/Arcsys' target='_blank'>ici</a>",
+            "message2" : "<img src='src/image/bot/arcsys_1.png'>",
+            "message3" : "<img src='src/image/bot/arcsys_2.png'>",
+            "message4" : "<img src='src/image/bot/arcsys_3.png'>"
+        }
+      }
+    ]
+    },
+    {
+    "name": "Projet Smith",
+    "logo": "src/image/server5.png",
+    "channels": [
+      {
+        "name": "-Qu'es que Smith ?",
+        "content": {
+          "message1" : "Smith, est un projet qui a pour but éducatif. ces le bot discord qui ma permis de tester les commande / sur les bot discord."
+        }
+      },
+      {
+        "name": "-Code",
+        "content": {
+          "message1" : "lien github : <a href='https://github.com/Meduse-arch/Smith' target='_blank'>ici</a>",
+            "message2" : "<img src='src/image/bot/smith.png'>"
         }
       }
     ]
     },
     {
     "name": "Projet Dune",
-    "logo": "src/image/server5.png",
+    "logo": "src/image/server6.png",
     "channels": [
       {
         "name": "-Qu'es que mon projet Dune ?",
@@ -113,14 +136,15 @@
       {
         "name": "-Code",
         "content": {
-          "message1" : "lien github : <a href='https://github.com/Meduse-arch/Dune' target='_blank'>ici</a>"
+          "message1" : "lien github : <a href='https://github.com/Meduse-arch/Dune' target='_blank'>ici</a>",
+            "message2" : "<img src='src/image/bot/dune.png'>"
         }
       }
     ]
     },
     {
     "name": "Sites JDR",
-    "logo": "src/image/server6.png",
+    "logo": "src/image/server7.png",
     "channels": [
       {
         "name": "-De quoi ça parle ?",
@@ -150,7 +174,7 @@
     },
     {
     "name": "Modèle 3D",
-    "logo": "src/image/server7.png",
+    "logo": "src/image/server8.png",
     "channels": [
       {
         "name": "-De quoi ça parle ?",
@@ -208,7 +232,7 @@
     },
     {
     "name": "Design",
-    "logo": "src/image/server8.png",
+    "logo": "src/image/server9.png",
     "channels": [
       {
         "name": "-De quoi ça parle ?",

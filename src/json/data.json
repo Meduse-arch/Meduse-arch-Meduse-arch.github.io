@@ -33,13 +33,14 @@
           {
             "name": "-Histoire",
             "content": {
-              "message1" :"Here are the latest announcements for Server 1."
+              "message1" :"L'informatique m'intéressé depuis ma seconde. Je suis allé en STI2D pendant 1 trimestre au lycée Paul Mathou. Mais je ne me sentez pas a ma place. <br> Je suis retourner dans mon lycée d'origine Martin Malvy. J'ai pris les option SES, Math ainsi que NSI. Durant ces cours, durant les projet ces là qu'est né mon amour pour l'informatique. <br> Cet a partir de ce moment que j'ai commencer diverse projet. le Montage de mon premier pc, mes premiet univers de Jeu de rôle. Ainsi que mes premier modèle 3D et mes premier programme.",
+              "message2" : "Une fois arrivé en LFlex d'informatique, j'ai eu une baisse de morale et j'ai perdu de l'intérêt pour l'informatique. Puis j'ai rencontrer plusieurs personne qui mon rebooster au max mon envie de programmer et fait découvrir la musique aussi. Mes amis on ensuite commencer a me lencer des défi, comme pour le bot discord Tore. Le défi était de comprendre la bliblihotèque ainsi que de réussir a le coder suivant le défi donner. Faire ce bot ma redonner une motivation de programmation et ma permis de voir ce que j'aime, la découverte, l'apprentissage ainsi que le travail en équipe."
             }
           },
           {
             "name": "-CuriculumVitae",
             "content": {
-              "message1" :"Here are the latest announcements for Server 1."
+              "message1" : "<img src='src/image/cv.png'>"
             }
           }
         ]
@@ -57,7 +58,7 @@
           {
             "name": "-Code",
             "content":{
-              "message1" : "bonjour, test <a href='https://www.google.com' target='_blank'>google</a>.<br><img src='src/image/server2.png'>"
+              "message1" : "<a href='https://github.com/Meduse-arch/Meduse-arch.github.io' target='_blank'>lien github</a>."
             }
           }
         ]
@@ -75,7 +76,7 @@
           {
             "name": "-Code",
            "content": {
-              "message1" : "lien github"
+              "message1" : "lien github : <a href='https://github.com/Meduse-arch/Tore' target='_blank'>ici</a>"
             }
           }
         ]
@@ -93,25 +94,25 @@
         {
           "name": "-Code",
           "content": {
-            "message1" : "lien github"
+            "message1" : "lien github : <a href='https://github.com/Meduse-arch/Arcsys' target='_blank'>ici</a>"
           }
         }
       ]
       },
       {
-      "name": "Projet Cours",
+      "name": "Projet Dune",
       "logo": "src/image/server5.png",
       "channels": [
         {
-          "name": "-Qu'es que mon projet fait en cours ?",
+          "name": "-Qu'es que mon projet Dune ?",
           "content": {
-            "message1" : "ces un jeu de plateau assez simple. Dans ce projet on ne devez pas faire de code trop compliquer. Ainsi que respecter les règles de clean code. Ce jeu ce joue dans un terminal et peut être jouer en 1vs1 ou contre un bot."
+            "message1" : "ces un jeu de plateau assez simple fait en cours. Dans ce projet on ne devez pas faire de code trop compliquer. Ainsi que respecter les règles de clean code. Ce jeu ce joue dans un terminal et peut être jouer en 1vs1 ou contre un bot."
           }
         },
         {
           "name": "-Code",
           "content": {
-            "message1" : "lien github"
+            "message1" : "lien github : <a href='https://github.com/Meduse-arch/Dune' target='_blank'>ici</a>"
           }
         }
       ]
@@ -148,7 +149,7 @@
       },
       {
       "name": "Modèle 3D",
-      "logo": "src/image/server6.png",
+      "logo": "src/image/server7.png",
       "channels": [
         {
           "name": "-De quoi ça parle ?",
@@ -207,8 +208,8 @@
       ]
       },
       {
-      "name": "Desgn",
-      "logo": "src/image/server6.png",
+      "name": "Design",
+      "logo": "src/image/server8.png",
       "channels": [
         {
           "name": "-De quoi ça parle ?",
@@ -220,40 +221,40 @@
           "name": "-Logo",
           "content": {
             "message1" : "Voici des desgn de logo avec leurs slogan que j'ai inventé. Pour les faire je me suis inspiré de la Faucheuse.",
-            "message2" : "<img src='src/image/desgn/Rip-er-1.png'>",
-            "message3" : "<img src='src/image/desgn/Rip-er-2.png'>",
-            "message4" : "<img src='src/image/desgn/Rip-er-3.png'>",
-            "message5" : "<img src='src/image/desgn/Rip-er-4.png'>",
-            "message6" : "<img src='src/image/desgn/Rip-er-5.png'>"
+            "message2" : "<img src='src/image/design/Rip-er-1.png'>",
+            "message3" : "<img src='src/image/design/Rip-er-2.png'>",
+            "message4" : "<img src='src/image/design/Rip-er-3.png'>",
+            "message5" : "<img src='src/image/design/Rip-er-4.png'>",
+            "message6" : "<img src='src/image/design/Rip-er-5.png'>"
           }
         },
         {
           "name": "-Classe JDR",
           "content": {
             "message1" : "Voici des logo de classe de jdr.",
-            "message2" : "<img src='src/image/desgn/Archer.png'>",
-            "message3" : "<img src='src/image/desgn/Assassin.png'>",
-            "message4" : "<img src='src/image/desgn/Fire_Wizard.png'>",
-            "message5" : "<img src='src/image/desgn/knight.png'>",
-            "message6" : "<img src='src/image/desgn/Ranger.png'>",
-            "message7" : "<img src='src/image/desgn/witch_doctor.png'>",
-            "message8" : "<img src='src/image/desgn/Wizard.png'>",
-            "message9" : "<img src='src/image/desgn/sworder.png'>"
+            "message2" : "<img src='src/image/design/Archer.png'>",
+            "message3" : "<img src='src/image/design/Assassin.png'>",
+            "message4" : "<img src='src/image/design/Fire_Wizard.png'>",
+            "message5" : "<img src='src/image/design/knight.png'>",
+            "message6" : "<img src='src/image/design/Ranger.png'>",
+            "message7" : "<img src='src/image/design/witch_doctor.png'>",
+            "message8" : "<img src='src/image/design/Wizard.png'>",
+            "message9" : "<img src='src/image/design/sworder.png'>"
           }
         },
         {
           "name": "-Server",
           "content": {
             "message1" : "Voici des logo de server.",
-            "message2" : "<img src='src/image/desgn/Latoria.png'>",
-            "message3" : "<img src='src/image/desgn/Litamoon.png'>"
+            "message2" : "<img src='src/image/design/Latoria.png'>",
+            "message3" : "<img src='src/image/design/Litamoon.png'>"
           }
         },
         {
           "name": "-Graffe",
           "content": {
             "message1" : "Voici un test artistique d'une sorte de graphe abstrait.",
-            "message2" : "<img src='src/image/desgn/graffe.png'>"
+            "message2" : "<img src='src/image/design/graffe.png'>"
           }
         }
       ]

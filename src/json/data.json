@@ -155,19 +155,22 @@
       {
         "name": "-Site n°1",
         "content": {
-          "message1" : "<a href='#' onclick='rickRoll(event)'>Voici</a> une ancienne candidature RP. <a href='https://sites.google.com/view/demoon/accueil' target='_blank'>lien</a> "
+          "message1" : "<a href='#' onclick='rickRoll(event)'>Voici</a> une ancienne candidature RP. <a href='https://sites.google.com/view/demoon/accueil' target='_blank'>lien</a> ",
+            "message2" : "<img src='src/image/site/dae.png'>"
         } 
       },
       {
         "name": "-Site n°2",
         "content": {
-          "message1" : "voici une ancienne candidature RP. <a href='https://sites.google.com/view/dae-black/accueil' target='_blank'>lien</a> "
+          "message1" : "voici une ancienne candidature RP. <a href='https://sites.google.com/view/dae-black/accueil' target='_blank'>lien</a> ",
+            "message2" : "<img src='src/image/site/deamon.png'>"
         }
       },
       {
         "name": "-Site n°3",
         "content": {
-          "message1" : "voici une ancienne doc rp que j'avais faite. <a href='https://sites.google.com/view/lycoris-helya/accueil' target='_blank'>lien</a> "
+          "message1" : "voici une ancienne doc rp que j'avais faite. <a href='https://sites.google.com/view/lycoris-helya/accueil' target='_blank'>lien</a> ",
+            "message2" : "<img src='src/image/site/lycoris.png'>"
         }
       }
     ]

@@ -18,9 +18,10 @@
             "name": "-Compétences",
             "content": {
               "message1" : "Python : maîtrisé",
-              "message2" : "Java script : moyen",
+              "message2" : "Javascript : moyen",
               "message3" : "Blender : moyen",
-              "message4" : "Disgn : moyen"
+              "message4" : "Disgn : moyen",
+              "message5" : "Html : moyen"
             }
           },
           {

@@ -1,266 +1,256 @@
 {
-    "servers": [
-      {
-        "name": "Profil",
-        "logo": "src/image/server1.png",
-        "channels": [
-          {
-            "name": "-Contact",
-            "content": {
-              "message1" : "numéro : 06 41 94 22 61",
-              "message2" : "mail : louisbochereau@gmail.com",
-              "message3" : "intagram : raven__dove",
-              "message4" : "discord : brochettedeserpent",
-              "message5" : "github : Meduse-arch"
-            }
-          },
-          {
-            "name": "-Compétences",
-            "content": {
-              "message1" : "Python : maîtrisé",
-              "message2" : "Javascript : moyen",
-              "message3" : "Blender : moyen",
-              "message4" : "Disgn : moyen",
-              "message5" : "Html : moyen"
-            }
-          },
-          {
-            "name": "-Etudes",
-            "content": {
-              "message1" : "lycée : Bac général, Lycée Martin Malvy <br> <pre> * option : Math, NSI, SES (prémière)",
-              "message2" : "Université : Paul Sabatier UT3 <br> <pre> * Licence FLEX Informatique (L1)"
-          }
-          },
-          {
-            "name": "-Histoire",
-            "content": {
-              "message1" :"L'informatique m'intéressé depuis ma seconde. Je suis allé en STI2D pendant 1 trimestre au lycée Paul Mathou. Mais je ne me sentez pas a ma place. <br> Je suis retourner dans mon lycée d'origine Martin Malvy. J'ai pris les option SES, Math ainsi que NSI. Durant ces cours, durant les projet ces là qu'est né mon amour pour l'informatique. <br> Cet a partir de ce moment que j'ai commencer diverse projet. le Montage de mon premier pc, mes premiet univers de Jeu de rôle. Ainsi que mes premier modèle 3D et mes premier programme.",
-              "message2" : "Une fois arrivé en LFlex d'informatique, j'ai eu une baisse de morale et j'ai perdu de l'intérêt pour l'informatique. Puis j'ai rencontrer plusieurs personne qui mon rebooster au max mon envie de programmer et fait découvrir la musique aussi. Mes amis on ensuite commencer a me lencer des défi, comme pour le bot discord Tore. Le défi était de comprendre la bliblihotèque ainsi que de réussir a le coder suivant le défi donner. Faire ce bot ma redonner une motivation de programmation et ma permis de voir ce que j'aime, la découverte, l'apprentissage ainsi que le travail en équipe."
-            }
-          },
-          {
-            "name": "-CuriculumVitae",
-            "content": {
-              "message1" : "<img src='src/image/cv.png'>"
-            }
-          }
-        ]
-      },
-      {
-        "name": "Portfolio",
-        "logo": "src/image/server2.png",
-        "channels": [
-          {
-            "name": "-Inspiration",
-            "content": {
-              "message1" :"Pour ce portfolio je me suis inspiré de discord, car ces surment le réseau social que j'utilise le plus que ce soit pour jouer, coder avec des amis ou coder un bot pour moi."
-            }
-          },
-          {
-            "name": "-Code",
-            "content":{
-              "message1" : "<a href='https://github.com/Meduse-arch/Meduse-arch.github.io' target='_blank'>lien github</a>."
-            }
-          }
-        ]
-      },
-      {
-        "name": "Projet Tore",
-        "logo": "src/image/server3.png",
-        "channels": [
-          {
-            "name": "-Qu'es que Tore ?",
-            "content": {
-                "message1" : "Tore  est un bot discord que j'ai fait dans un but non lucratif et à un objectif éducatif. Ce bot discord a était fait pour essayer de retrouver une information dans un code html et envoyer un lien. Dans le cas de Tore il chercher suivant un mot clé dit sur discord et renoyé le lien magnet d'un Torrent sur un site."
-              }
-          },
-          {
-            "name": "-Code",
-           "content": {
-              "message1" : "lien github : <a href='https://github.com/Meduse-arch/Tore' target='_blank'>ici</a>"
-            }
-          }
-        ]
-      },
-      {
-      "name": "Projet Arcsys",
-      "logo": "src/image/server4.png",
+  "servers": [
+    {
+      "name": "Profil",
+      "logo": "src/image/server1.png",
       "channels": [
         {
-          "name": "-Qu'es que Arcsys ?",
+          "name": "-Contact",
           "content": {
-            "message1" : "Arcsys est un bot discord que j'ai fait dans un but non lucratif. Ce bot discord sert dans le cadre des jeu de rôle. il permet de faire des lancer de dé, de 1 ou X nombre de dé. il permet aussi de faire des clean channel pour aidé un Maitre de jeu pour une séance de jeu de role sur discord."
+            "message1" : "numéro : 06 41 94 22 61",
+            "message2" : "mail : louisbochereau@gmail.com",
+            "message3" : "intagram : raven__dove",
+            "message4" : "discord : brochettedeserpent",
+            "message5" : "github : Meduse-arch"
+          }
+        },
+        {
+          "name": "-Compétences",
+          "content": {
+            "message1" : "Python : maîtrisé",
+            "message2" : "Javascript : moyen",
+            "message3" : "Blender : moyen",
+            "message4" : "Disgn : moyen",
+            "message5" : "Html : moyen"
+          }
+        },
+        {
+          "name": "-Etudes",
+          "content": {
+            "message1" : "lycée : Bac général, Lycée Martin Malvy <br> <pre> * option : Math, NSI, SES (prémière)",
+            "message2" : "Université : Paul Sabatier UT3 <br> <pre> * Licence FLEX Informatique (L1)"
+        }
+        },
+        {
+          "name": "-Histoire",
+          "content": {
+            "message1" :"L'informatique m'intéressé depuis ma seconde. Je suis allé en STI2D pendant 1 trimestre au lycée Paul Mathou. Mais je ne me sentez pas a ma place. <br> Je suis retourner dans mon lycée d'origine Martin Malvy. J'ai pris les option SES, Math ainsi que NSI. Durant ces cours, durant les projet ces là qu'est né mon amour pour l'informatique. <br> Cet a partir de ce moment que j'ai commencer diverse projet. le Montage de mon premier pc, mes premiet univers de Jeu de rôle. Ainsi que mes premier modèle 3D et mes premier programme.",
+            "message2" : "Une fois arrivé en LFlex d'informatique, j'ai eu une baisse de morale et j'ai perdu de l'intérêt pour l'informatique. Puis j'ai rencontrer plusieurs personne qui mon rebooster au max mon envie de programmer et fait découvrir la musique aussi. Mes amis on ensuite commencer a me lencer des défi, comme pour le bot discord Tore. Le défi était de comprendre la bliblihotèque ainsi que de réussir a le coder suivant le défi donner. Faire ce bot ma redonner une motivation de programmation et ma permis de voir ce que j'aime, la découverte, l'apprentissage ainsi que le travail en équipe."
+          }
+        },
+        {
+          "name": "-CuriculumVitae",
+          "content": {
+            "message1" : "<img src='src/image/cv.png'>"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Portfolio",
+      "logo": "src/image/server2.png",
+      "channels": [
+        {
+          "name": "-Inspiration",
+          "content": {
+            "message1" :"Pour ce portfolio je me suis inspiré de discord, car ces surment le réseau social que j'utilise le plus que ce soit pour jouer, coder avec des amis ou coder un bot pour moi."
           }
         },
         {
           "name": "-Code",
-          "content": {
-            "message1" : "lien github : <a href='https://github.com/Meduse-arch/Arcsys' target='_blank'>ici</a>"
+          "content":{
+            "message1" : "lien github <a href='https://github.com/Meduse-arch/Meduse-arch.github.io' target='_blank'> ici </a>."
           }
         }
       ]
-      },
-      {
-      "name": "Projet Dune",
-      "logo": "src/image/server5.png",
+    },
+    {
+      "name": "Projet Tore",
+      "logo": "src/image/server3.png",
       "channels": [
         {
-          "name": "-Qu'es que mon projet Dune ?",
+          "name": "-Qu'es que Tore ?",
           "content": {
-            "message1" : "ces un jeu de plateau assez simple fait en cours. Dans ce projet on ne devez pas faire de code trop compliquer. Ainsi que respecter les règles de clean code. Ce jeu ce joue dans un terminal et peut être jouer en 1vs1 ou contre un bot."
-          }
+              "message1" : "Tore  est un bot discord que j'ai fait dans un but non lucratif et à un objectif éducatif. Ce bot discord a était fait pour essayer de retrouver une information dans un code html et envoyer un lien. Dans le cas de Tore il chercher suivant un mot clé dit sur discord et renoyé le lien magnet d'un Torrent sur un site."
+            }
         },
         {
           "name": "-Code",
-          "content": {
-            "message1" : "lien github : <a href='https://github.com/Meduse-arch/Dune' target='_blank'>ici</a>"
+         "content": {
+            "message1" : "lien github : <a href='https://github.com/Meduse-arch/Tore' target='_blank'>ici</a>"
           }
         }
       ]
+    },
+    {
+    "name": "Projet Arcsys",
+    "logo": "src/image/server4.png",
+    "channels": [
+      {
+        "name": "-Qu'es que Arcsys ?",
+        "content": {
+          "message1" : "Arcsys est un bot discord que j'ai fait dans un but non lucratif. Ce bot discord sert dans le cadre des jeu de rôle. il permet de faire des lancer de dé, de 1 ou X nombre de dé. il permet aussi de faire des clean channel pour aidé un Maitre de jeu pour une séance de jeu de role sur discord."
+        }
       },
       {
-      "name": "Sites JDR",
-      "logo": "src/image/server6.png",
-      "channels": [
-        {
-          "name": "-De quoi ça parle ?",
-          "content": {
-            "message1" : "ce server va vous montrer différent site que j'ai eu fait dans l'objectif du faire des jeu de rôle sur garry's mod. ces sites son d'ailleurs fait avec google sites. "
-          }
-        },
-        {
-          "name": "-Site n°1",
-          "content": {
-            "message1" : "<a href='#' onclick='rickRoll(event)'>Voici</a> une ancienne candidature RP. <a href='https://sites.google.com/view/demoon/accueil' target='_blank'>lien</a> "
-          } 
-        },
-        {
-          "name": "-Site n°2",
-          "content": {
-            "message1" : "voici une ancienne candidature RP. <a href='https://sites.google.com/view/dae-black/accueil' target='_blank'>lien</a> "
-          }
-        },
-        {
-          "name": "-Site n°3",
-          "content": {
-            "message1" : "voici une ancienne doc rp que j'avais faite. <a href='https://sites.google.com/view/lycoris-helya/accueil' target='_blank'>lien</a> "
-          }
+        "name": "-Code",
+        "content": {
+          "message1" : "lien github : <a href='https://github.com/Meduse-arch/Arcsys' target='_blank'>ici</a>"
         }
-      ]
-      },
-      {
-      "name": "Modèle 3D",
-      "logo": "src/image/server7.png",
-      "channels": [
-        {
-          "name": "-De quoi ça parle ?",
-          "content": {
-            "message1" : "ce server va vous montrer différent modèle 3D dont je ne possède plus les fichier mes seulement ces capture d'écrant que vous verrez dans les autre channel. certain on était fait pour l'amusement. Tendis que d'autre on était fait pour pouvoir être utilisé sur le garry's mod avec son module de pac3"
-          }
-        },
-        {
-          "name": "-Rapière",
-          "content": {
-            "message1" : "voici une rapière faite avec blander.",
-            "message2" : "<img src='src/image/3D/rapiere.png'>"
-          }
-        },
-        {
-          "name": "-Couteau de chasse",
-          "content": {
-            "message1" : "voici un couteau de chasse faite avec blander. Il y a 2 version car ces sur ce couteau que j'ai esseyer pour la première fois les texture.",
-            "message2" : "<img src='src/image/3D/couteau.png'>",
-            "message3" : "<img src='src/image/3D/couteau_t.png'>"
-          }
-        },
-        {
-          "name": "-Flèche",
-          "content": {
-            "message1" : "voici 2 flèche faite avec blander.",
-            "message2" : "<img src='src/image/3D/fleche_1.png'>",
-            "message3" : "<img src='src/image/3D/fleche_2.png'>"
-          }
-        },
-        {
-          "name": "-Sword",
-          "content": {
-            "message1" : "cvoici une épée fantaisiste faite avec blander.",
-            "message2" : "<img src='src/image/3D/sword.png'>"
-          }
-        },
-        {
-          "name": "-Masque",
-          "content": {
-            "message1" : "voici un masque fait avec blander. Sur les image suivant vous verrez le masque sur blender. ainsi que le masque intégré sur Garry's mod.",
-            "message2" : "Il y aussi sur une image une épée que j'avais intégré.",
-            "message3" : "<img src='src/image/3D/masque.png'>",
-            "message4" : "<img src='src/image/3D/m_perso1.png'>",
-            "message5" : "<img src='src/image/3D/m_perso2.png'>",
-            "message6" : "<img src='src/image/3D/m_s.png'>"
-          }
-        },
-        {
-          "name": "-Tasse de café",
-          "content": {
-            "message1" : "Cliqué sur le lien pour un rendu 3D sur le web et donc observer la tasse en 3D.",
-            "message2" : "<a href='#' onclick='tea(event)'> lien </a>"
-          }
-        }
-      ]
-      },
-      {
-      "name": "Design",
-      "logo": "src/image/server8.png",
-      "channels": [
-        {
-          "name": "-De quoi ça parle ?",
-          "content": {
-            "message1" : "ce server va vous montrer différent modèle de desgn fait avec canva."
-          }
-        },
-        {
-          "name": "-Logo",
-          "content": {
-            "message1" : "Voici des desgn de logo avec leurs slogan que j'ai inventé. Pour les faire je me suis inspiré de la Faucheuse.",
-            "message2" : "<img src='src/image/design/Rip-er-1.png'>",
-            "message3" : "<img src='src/image/design/Rip-er-2.png'>",
-            "message4" : "<img src='src/image/design/Rip-er-3.png'>",
-            "message5" : "<img src='src/image/design/Rip-er-4.png'>",
-            "message6" : "<img src='src/image/design/Rip-er-5.png'>"
-          }
-        },
-        {
-          "name": "-Classe JDR",
-          "content": {
-            "message1" : "Voici des logo de classe de jdr.",
-            "message2" : "<img src='src/image/design/Archer.png'>",
-            "message3" : "<img src='src/image/design/Assassin.png'>",
-            "message4" : "<img src='src/image/design/Fire_Wizard.png'>",
-            "message5" : "<img src='src/image/design/knight.png'>",
-            "message6" : "<img src='src/image/design/Ranger.png'>",
-            "message7" : "<img src='src/image/design/witch_doctor.png'>",
-            "message8" : "<img src='src/image/design/Wizard.png'>",
-            "message9" : "<img src='src/image/design/sworder.png'>"
-          }
-        },
-        {
-          "name": "-Server",
-          "content": {
-            "message1" : "Voici des logo de server.",
-            "message2" : "<img src='src/image/design/Latoria.png'>",
-            "message3" : "<img src='src/image/design/Litamoon.png'>"
-          }
-        },
-        {
-          "name": "-Graffe",
-          "content": {
-            "message1" : "Voici un test artistique d'une sorte de graphe abstrait.",
-            "message2" : "<img src='src/image/design/graffe.png'>"
-          }
-        }
-      ]
       }
-      
     ]
-  }
-  
+    },
+    {
+    "name": "Projet Dune",
+    "logo": "src/image/server5.png",
+    "channels": [
+      {
+        "name": "-Qu'es que mon projet Dune ?",
+        "content": {
+          "message1" : "ces un jeu de plateau assez simple fait en cours. Dans ce projet on ne devez pas faire de code trop compliquer. Ainsi que respecter les règles de clean code. Ce jeu ce joue dans un terminal et peut être jouer en 1vs1 ou contre un bot."
+        }
+      },
+      {
+        "name": "-Code",
+        "content": {
+          "message1" : "lien github : <a href='https://github.com/Meduse-arch/Dune' target='_blank'>ici</a>"
+        }
+      }
+    ]
+    },
+    {
+    "name": "Sites JDR",
+    "logo": "src/image/server6.png",
+    "channels": [
+      {
+        "name": "-De quoi ça parle ?",
+        "content": {
+          "message1" : "ce server va vous montrer différent site que j'ai eu fait dans l'objectif du faire des jeu de rôle sur garry's mod. ces sites son d'ailleurs fait avec google sites. "
+        }
+      },
+      {
+        "name": "-Site n°1",
+        "content": {
+          "message1" : "<a href='#' onclick='rickRoll(event)'>Voici</a> une ancienne candidature RP. <a href='https://sites.google.com/view/demoon/accueil' target='_blank'>lien</a> "
+        } 
+      },
+      {
+        "name": "-Site n°2",
+        "content": {
+          "message1" : "voici une ancienne candidature RP. <a href='https://sites.google.com/view/dae-black/accueil' target='_blank'>lien</a> "
+        }
+      },
+      {
+        "name": "-Site n°3",
+        "content": {
+          "message1" : "voici une ancienne doc rp que j'avais faite. <a href='https://sites.google.com/view/lycoris-helya/accueil' target='_blank'>lien</a> "
+        }
+      }
+    ]
+    },
+    {
+    "name": "Modèle 3D",
+    "logo": "src/image/server7.png",
+    "channels": [
+      {
+        "name": "-De quoi ça parle ?",
+        "content": {
+          "message1" : "ce server va vous montrer différent modèle 3D dont je ne possède plus les fichier mes seulement ces capture d'écrant que vous verrez dans les autre channel. certain on était fait pour l'amusement. Tendis que d'autre on était fait pour pouvoir être utilisé sur le garry's mod avec son module de pac3"
+        }
+      },
+      {
+        "name": "-Rapière",
+        "content": {
+          "message1" : "voici une rapière faite avec blander.",
+          "message2" : "<img src='src/image/3D/rapiere.png'>"
+        }
+      },
+      {
+        "name": "-Couteau de chasse",
+        "content": {
+          "message1" : "voici un couteau de chasse faite avec blander. Il y a 2 version car ces sur ce couteau que j'ai esseyer pour la première fois les texture.",
+          "message2" : "<img src='src/image/3D/couteau.png'><img src='src/image/3D/couteau_t.png'>"
+        }
+      },
+      {
+        "name": "-Flèche",
+        "content": {
+          "message1" : "voici 2 flèche faite avec blander.",
+          "message2" : "<img src='src/image/3D/fleche_1.png'><img src='src/image/3D/fleche_2.png'>"
+        }
+      },
+      {
+        "name": "-Sword",
+        "content": {
+          "message1" : "Voici une épée fantaisiste faite avec blander.",
+          "message2" : "<img src='src/image/3D/sword.png'>"
+        }
+      },
+      {
+        "name": "-Masque",
+        "content": {
+          "message1" : "voici un masque fait avec blander. Sur les image suivant vous verrez le masque sur blender. ainsi que le masque intégré sur Garry's mod.",
+          "message2" : "Il y aussi sur une image une épée que j'avais intégré.",
+          "message3" : "<img src='src/image/3D/masque.png'>",
+          "message4" : "<img src='src/image/3D/m_perso1.png'>",
+          "message5" : "<img src='src/image/3D/m_perso2.png'>",
+          "message6" : "<img src='src/image/3D/m_s.png'>"
+        }
+      },
+      {
+        "name": "-Tasse de café",
+        "content": {
+          "message1" : "Cliqué sur le lien pour un rendu 3D sur le web et donc observer la tasse en 3D.",
+          "message2" : "<a href='#' onclick='tea(event)'> lien </a>"
+        }
+      }
+    ]
+    },
+    {
+    "name": "Design",
+    "logo": "src/image/server8.png",
+    "channels": [
+      {
+        "name": "-De quoi ça parle ?",
+        "content": {
+          "message1" : "ce server va vous montrer différent modèle de desgn fait avec canva."
+        }
+      },
+      {
+        "name": "-Logo",
+        "content": {
+          "message1" : "Voici des desgn de logo avec leurs slogan que j'ai inventé. Pour les faire je me suis inspiré de la Faucheuse.",
+          "message2" : "<img src='src/image/design/Rip-er-1.png'><img src='src/image/design/Rip-er-2.png'>",
+          "message3" : "<img src='src/image/design/Rip-er-3.png'><img src='src/image/design/Rip-er-4.png'>",
+          "message4" : "<img src='src/image/design/Rip-er-5.png'>"
+        }
+      },
+      {
+        "name": "-Classe JDR",
+        "content": {
+          "message1" : "Voici des logo de classe de jdr.",
+          "message2" : "<img src='src/image/design/Archer.png'><img src='src/image/design/sworder.png'>",
+          "message3" : "<img src='src/image/design/Assassin.png'><img src='src/image/design/Wizard.png'>",
+          "message4" : "<img src='src/image/design/Fire_Wizard.png'><img src='src/image/design/Ranger.png'>",
+          "message5" : "<img src='src/image/design/knight.png'><img src='src/image/design/witch_doctor.png'>"
+        }
+      },
+      {
+        "name": "-Server",
+        "content": {
+          "message1" : "Voici des logo de server.",
+          "message2" : "<img src='src/image/design/Latoria.png'><img src='src/image/design/Litamoon.png'>"
+        }
+      },
+      {
+        "name": "-Graffe",
+        "content": {
+          "message1" : "Voici un test artistique d'une sorte de graphe abstrait.",
+          "message2" : "<img src='src/image/design/graffe.png'>"
+        }
+      }
+    ]
+    }
+    
+  ]
+}

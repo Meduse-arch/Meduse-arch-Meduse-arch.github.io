@@ -1,0 +1,124 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  /* Discord-style layout */
+  #app {
+    display: flex;
+    width: 100%;
+  }
+  
+  /* Sidebar for servers */
+  #servers {
+    background-color: #202225;
+    width: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+  }
+  
+  #servers div {
+    width: 50px;
+    height: 50px;
+    margin: 10px 0;
+    border-radius: 50%;
+    background-color: #5865F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+    /* Style for server logos */
+    .server-logo img {
+        width: 50px;
+        height: 50px;
+        margin: 10px 0;
+        border-radius: 50%;
+        cursor: pointer;
+        object-fit: cover;
+        transition: transform 0.2s;
+    }
+  
+  .server-logo img:hover {
+    transform: scale(1.1);
+  }
+  
+
+  #servers div:hover {
+    background-color: #404EED;
+  }
+  
+  /* Sidebar for channels */
+  #channels {
+    background-color: #2F3136;
+    width: 250px;
+    padding: 10px;
+    color: white;
+    overflow-y: auto;
+  }
+  
+  #channels h2 {
+    margin-top: 0;
+  }
+  
+  #channels ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #channels ul li {
+    margin: 5px 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #channels ul li:hover {
+    background-color: #40444B;
+  }
+  
+  /* Main content */
+  #content {
+    flex-grow: 1;
+    background-color: #36393F;
+    color: white;
+    padding: 20px;
+    overflow-y: auto;
+  }
+  /* Style for links */
+  a{
+  color: #3498db; /* Blue color */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #2980b9; /* Darker blue on hover */
+}
+
+/* Style for the Home button */
+.server-logo:first-child {
+  background-color: #2f3136; /* Dark gray background for Home */
+  border: 2px solid #7289da; /* Add a Discord-like blue border */
+  border-radius: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.server-logo:first-child:hover {
+  background-color: #40444b; /* Slightly lighter gray on hover */
+}
+
+
+ul {
+  list-style-type: none;
+}

@@ -151,7 +151,51 @@ function rickRoll(event) {
   }, 5000);
 }
 
-function tea(response) {
-  response.writeHead(418, { 'Content-Type': 'text/plain' });
-  response.end("I'm a teapot");
+function tea(event) {
+  event.preventDefault(); // Empêche la navigation normale
+
+  // Nettoie le contenu existant de la page
+  document.body.innerHTML = '';
+
+  // Crée une div pour l'erreur 418
+  const error418Container = document.createElement('div');
+  error418Container.style.textAlign = 'center';;
+  error418Container.style.height = '100vh';
+  error418Container.style.display = 'flex';
+  error418Container.style.flexDirection = 'column';
+  error418Container.style.justifyContent = 'center';
+  error418Container.style.alignItems = 'center';
+
+  // Ajoute un titre "Erreur 418"
+  const errorTitle = document.createElement('h1');
+  errorTitle.textContent = "Erreur 418  - Je ne peux pas faire de café, je suis une théière ! ☕";
+  errorTitle.style.fontSize = '3rem';
+  errorTitle.style.marginBottom = '20px';
+  error418Container.appendChild(errorTitle);
+
+  // Ajoute une image ou GIF
+  const teaGif = document.createElement('img');
+  teaGif.src = 'src/image/fun/tea.gif'; // Chemin local vers votre GIF
+  teaGif.alt = 'Erreur 418 - Théière';
+  teaGif.style.maxWidth = '300px';
+  teaGif.style.borderRadius = '10px';
+  error418Container.appendChild(teaGif);
+
+  // Ajoute un message humoristique
+  const errorMessage = document.createElement('p');
+  errorMessage.textContent = "Vous serez redirigé à l'accueil dans 5 secondes.";
+  errorMessage.style.fontSize = '1.2rem';
+  errorMessage.style.marginTop = '10px';
+  error418Container.appendChild(errorMessage);
+
+  document.body.appendChild(error418Container);
+
+  // Joue une musique de fond
+  const audio = new Audio('src/image/fun/coffee.mp3'); // Chemin local vers l'audio
+  audio.play();
+
+  // Recharge la page après 5 secondes
+  setTimeout(() => {
+    location.reload(); // Recharge la page
+  }, 5000);
 }
